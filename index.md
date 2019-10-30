@@ -9,4 +9,4 @@ We are the Group 17. Our group members are:
 
 
 ## Project Part 1
-[Here](files/Quality_Control_Project1.html) is our Project Part 1.
+[Here](files./Quality_Control_Project1.html) is our Project Part 1.
